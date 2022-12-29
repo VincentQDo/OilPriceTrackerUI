@@ -1,5 +1,5 @@
 ## Tools required
-- [VSCode](https://code.visualstudio.com/): You dev environment
+- [VSCode](https://code.visualstudio.com/): You dev environment, download the following extensions as well:
   - `Live server` extension on VSCode (This allow you to see your changes live)
   - `ESLint` Linter for your code so if you did anything wrong it will tell you
   - `Prettier` Code formatter for nicer looking code
