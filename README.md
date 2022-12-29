@@ -1,6 +1,8 @@
 ## Tools required
 - [VSCode](https://code.visualstudio.com/): You dev environment
--- `Live server` extension on VSCode (This allow you to see your changes live)
+  - `Live server` extension on VSCode (This allow you to see your changes live)
+  - `ESLint` Linter for your code so if you did anything wrong it will tell you
+  - `Prettier` Code formatter for nicer looking code
 - [NodeJS](https://nodejs.org/en/): Javascript package manager and runtime env
 - [Git](https://git-scm.com/downloads): Used for version control
 
